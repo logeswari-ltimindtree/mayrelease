@@ -2,4 +2,9 @@ public class demo{
   public void sayHello(){
     system.debug('Hello gitHub');
 }
+  public static void(){
+	integer a = 10;
+	integer b = 20;
+	integer res = a+b;
+	system.debug(res);
 }
