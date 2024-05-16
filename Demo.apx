@@ -8,3 +8,4 @@ public class demo{
 	integer res = a+b;
 	system.debug(res);
 }
+}
